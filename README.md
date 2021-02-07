@@ -1,4 +1,5 @@
-# Hungry Monster
+# Hungery-Monster
 
-### [Live Preview](https://hossainrabbi.github.io/Hungry-Monster/)
-# hungery-Monster-5
+## Live site : https://mehedi-hasan2005.github.io/hungery-Monster-5/index.html
+
+### repository : https://github.com/Mehedi-Hasan2005/hungery-Monster-5
